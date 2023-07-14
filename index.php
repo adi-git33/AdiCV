@@ -60,7 +60,7 @@ if (!$result) {
                             <a href="https://www.linkedin.com/in/adi-levi-150917260/"><i class="fa fa-linkedin"></i></a>
                             <a href="https://github.com/adi-git33"><i class="fa fa-github"></i></a>
                         </div>
-                        <a href='/files/AdiLeviResume.pdf' class='cv' target="_blank">CV</a>
+                        <a href='https://se.shenkar.ac.il/software-engineers/AdiLevi/files/AdiLeviResume.pdf' class='cv' target="_blank">CV</a>
                         <a href='https://www.shenkar.ac.il/he/departments/engineering-software-department'
                             class='shenkar'>תואר ראשון בהנדסת תוכנה בשנקר</a>
                     </section>

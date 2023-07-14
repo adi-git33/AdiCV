@@ -21,7 +21,7 @@ footer {
 
 
 main {
-  height: 80vh;
+  height: 90vh;
   padding: 20px;
   font-size: 16px;
   overflow: hidden;
@@ -335,7 +335,7 @@ section>a:hover {
 
 @media (max-width: 768px) {
   main {
-    height: 80vh;
+    height: 90vh;
   }
 
   h1 {
